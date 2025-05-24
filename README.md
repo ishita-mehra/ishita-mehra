@@ -51,22 +51,5 @@
 </p>
 
 ---
-<!--
-### 📂 Featured Projects
-
-Here are a few projects I’m proud of:
-- 🔹 **[TicTacToe](https://github.com/ishita-mehra/TicTacToe)** – CLI-based C++ game with logic and replay feature.
-- 🔹 **[EasyRide](https://github.com/ishita-mehra/easy_ride)** – Ride booking app (under development).
-- 🔹 **[Portfolio Website](https://github.com/ishita-mehra/portfolio)** – Built with React & deployed on Vercel.
--->
 ---
-
-### 📫 Let’s Connect
-
-- 🌐 **Portfolio:** [ishita-mehra-portfolio.vercel.app](https://ishita-mehra-portfolio.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/ishitamehra16](https://www.linkedin.com/in/ishitamehra16/)
-<!--- 📧 **Email:** *(optional: add your contact email)*-->
-
----
-
 ⭐ *Thanks for stopping by! If you like what I do, consider giving my repositories a ⭐ or connecting on LinkedIn!*
